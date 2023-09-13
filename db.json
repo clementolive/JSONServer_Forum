@@ -24,11 +24,13 @@
   ]
 },
   
-"moderators": [
+"moderators": {
+    "moderators": [
     {"user": "doxa", "picture": "https://picsum.photos/200"},
     {"user": "gehyr", "picture": "https://picsum.photos/200"},
     {"user": "Freyui", "picture": "https://picsum.photos/200"}
-    ],
+    ]
+},
 
 "threads": { 
     "title": "News", 
