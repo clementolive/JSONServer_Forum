@@ -18,10 +18,10 @@
     "visitors": [
       "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"
       ], 
-    "wall": [
-      {"user": "ashe", "content": "hey I really like what you do ! ", "createdAt": "2023-05-02", "picture": "https://picsum.photos/200"}, 
-      {"user": "gabre", "content": "Still here ? ", "createdAt": "2023-04-02", "picture": "https://picsum.photos/200"}
-      ]
+  "wall": [
+  {"id": 1, "user": "ashe", "content": "hey I really like what you do ! ", "createdAt": "2023-05-02", "picture": "https://picsum.photos/200","signature": {}}, 
+  {"id": 2, "user": "gabre", "content": "Still here ? ", "createdAt": "2023-04-02", "picture": "https://picsum.photos/200", "signature": {}}
+  ]
 },
   
 "moderators": [
